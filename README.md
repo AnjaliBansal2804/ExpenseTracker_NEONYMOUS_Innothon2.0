@@ -28,19 +28,12 @@ A comprehensive personal finance management application that helps users track t
 ## Tech Stack
 
 - **Frontend**: React.js
-- **Backend**: Node.js with Express
-- **API**: RESTful API architecture
-- **Database**: (To be specified)
+- **Backend**: Node.js and Express
+- **API**: PostMan API
+- **Database**: mongoDb
 
 ## Project Structure
 
-```
-financeTracker/
-├── src/
-│   ├── Utils/
-│   │   └── apiPath.js
-│   └── ... (other frontend components)
-└── ... (other project files)
 ```
 
 ## API Endpoints
