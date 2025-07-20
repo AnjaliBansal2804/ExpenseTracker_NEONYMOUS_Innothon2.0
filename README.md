@@ -71,23 +71,3 @@ A comprehensive personal finance management application that helps users track t
    npm start
    ```
 
-## Environment Setup
-
-The application requires the following environment variables:
-- Backend server URL (default: http://localhost:4000)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
-## License
-
-[Add your license here]
-
-## Contact
-
-[Add your contact information here]
