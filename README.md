@@ -4,11 +4,6 @@ A comprehensive personal finance management application that helps users track t
 
 ## Features
 
-- **User Authentication**
-  - Secure login and registration
-  - User profile management
-  - Profile image upload capability
-
 - **Dashboard**
   - Overview of financial data
   - Visual representation of income and expenses
